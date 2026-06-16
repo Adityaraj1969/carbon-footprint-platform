@@ -1,4 +1,4 @@
-# 🎤 CarbonLens — Judge Presentation Pitch Script
+# 🎤 CarbonLens — Presentation Pitch Script
 > **How to use this:** Keep this open on half your screen (or print it out) while you share your screen with the judges. It tells you exactly what to say and what to click to impress them.
 ---
 ## 1. Introduction (The Hook)
